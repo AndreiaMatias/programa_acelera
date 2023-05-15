@@ -46,15 +46,11 @@ Foram disponibilizadas as seguintes bases de dados para a realização da análi
     
     | Dia | Descrição |
     | --- | --- |
-    | Dia | Data em que os anúncios foram
-      gerados. |
+    | Dia | Data em que os anúncios foram gerados. |
     | Tipo de Campanha | Tipo de campanha, sendo:
-         - "Conversão" para anúncios focados na venda de produtos para o "público frio", sendo que o anúncio aparece na busca como Link Patrocinado;
-        
+         - "Conversão" para anúncios focados na venda de produtos para o "público frio", sendo que o anúncio aparece na busca como Link Patrocinado; 
         - "Conversão Youtube" para anúncios focados na venda de produtos para o "público frio" sendo que o anúncio aparece antes do início de vídeo do Youtube;
-        
         - "Remarketing" para venda de produtos para o "público quente";
-        
         - "Institucional" para venda de produtos para clientes que digital o novo "Br Bank" no Google. |
     | Produto/Anúncio | Produto em que o anúncio tenta
       vender. |
@@ -62,8 +58,7 @@ Foram disponibilizadas as seguintes bases de dados para a realização da análi
       do anúncio | Quantidade de vezes em que o anúncio apareceu na busca do Google ou no Youtube. |
     | Cliques | Quantidade de cliques no anúncio. |
     | Custo | Custo diário para este anúncio ser veiculado na plataforma do Google. |
-    | Conversões | Qte de Empréstimos Contratados
-      para um dado dia e anúncio. |
+    | Conversões | Qte de Empréstimos Contratados para um dado dia e anúncio. |
     | Receita | Receita gerada pelos empréstimos
       contratados para um dado dia e anúncio. |
 - Google Analytics
@@ -83,8 +78,7 @@ Foram disponibilizadas as seguintes bases de dados para a realização da análi
     | Tipo de Campanha | Tipo de campanha, sendo "Conversão" para anúncios focados na venda de produtos para o "público frio" e anúncios de "Remarketing" para venda de produtos para o "público quente". |
     | Produto/Anúncio | Produto em que o anúncio tenta vender. |
     | Público | Cold: Público frio, ou seja, pessoas que nunca tiveram contato com a empresa em suas redes sociais ou página de vendas.
-        
-    Hot: Público quente, ou seja, pessoas que já tiveram contato com a empresa em suas redes sociais ou página de vendas. |
+        Hot: Público quente, ou seja, pessoas que já tiveram contato com a empresa em suas redes sociais ou página de vendas. |
     | Impressões do anúncio | Quantidade de vezes em que o anúncio apareceu no feed, stories ou reels nas plataformas da Meta. |
     | Cliques | Quantidade de cliques no anúncio. |
     | Custo | Custo diário para este anúncio ser veiculado na plataforma da Meta. |
