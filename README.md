@@ -12,7 +12,7 @@ Para realizar a análise da situação atual e propor medidas a serem tomadas, a
 
 ## Bases de dados
 
-Foram disponibilizadas as seguintes bases de dados para a realização da análise compreendendo o período de **09/22** a **02/23**, considerando a data do lead (basta clicar no nome da base para acessar o detalhamento de cada uma delas):
+Foram disponibilizadas as seguintes bases de dados para a realização da análise compreendendo o período de **09/22** a **02/23**, considerando a data do lead:
 
 - Base de cadastro da conta digital
 - Base CRM
